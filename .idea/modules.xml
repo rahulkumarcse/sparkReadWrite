@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkRunner.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SparkRunner-build.iml" filepath="$PROJECT_DIR$/.idea/modules/SparkRunner-build.iml" />
+    </modules>
+  </component>
+</project>
